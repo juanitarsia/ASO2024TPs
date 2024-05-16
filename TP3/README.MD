@@ -4,3 +4,8 @@
 
 1.C Al ejecutar el programa con comentado con # el tiempo de ejecucion es mas rapido que cuando se descomentan las lineas 11,12,19 y 20. Esto pasa porque al usar for tarda mas tiempo.
 
+2.A
+<a href="./TP3/race_condition/con_race_condition.c">PUNTO2A</a>
+
+2.B
+<img src="./TP3/incisioBTP3.png">
