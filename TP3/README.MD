@@ -8,4 +8,4 @@
 <a href="./TP3/race_condition/con_race_condition.c">PUNTO2A</a>
 
 2.B
-<img src="./TP3/incisioBTP3.png">
+<img src="./incisioBTP3.png">
